@@ -2,7 +2,7 @@
 title: SOSI 產品文件中心
 email: rica@yourdomain.com
 description: >-
-  這裡是 SOSI 的產品操作與安全審計手冊，提供最詳細的教學指南。
+  這裡是 SOSI 的產品操作手冊，提供最詳細的教學指南。
 
 # 修正 404 錯誤的核心設定 (務必檢查)
 baseurl: "/SOSI" 
