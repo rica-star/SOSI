@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: SOSI 產品文件中心
 ---
+
+### 歡迎使用 SOSI 安全維運系統
+
+這裡是 SOSI 的產品操作與安全審計手冊。您可以透過下方的文章連結進入詳細的操作指引：
+
+---
+
+### 📚 線上手冊清單
